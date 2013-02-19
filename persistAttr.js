@@ -9,9 +9,8 @@
                               .removePersistentAttribute(elem, 'width');
 
  license: The MIT License, Copyright (c) 2010 YUKI "Piro" Hiroshi
-   http://github.com/piroor/fxaddonlibs/blob/master/license.txt
  original:
-   http://github.com/piroor/fxaddonlibs/blob/master/persistAttr.js
+   http://github.com/piroor/fxaddonlib-persistent-attributes
 */
 
 /* To work as a JS Code Module */
