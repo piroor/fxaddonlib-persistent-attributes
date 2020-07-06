@@ -1,4 +1,4 @@
-# Persistent Attributes Manager for Firefox 3.6 or later
+# Persistent Attributes Manager for Firefox 3.6-56
 
 ## Usage:
 
